@@ -1,0 +1,730 @@
+{
+    "name": "screw new",
+    "securityToken": "screw new Token",
+    "sourceConnection": {
+        "name": "screw new",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjgwYjI2MWRmNGFmYTZlYWVhYTlmNWE1Y2VhYjIzNWNhNTg0ODYzYTZiZjdlMjlhNmVhYTI3MTJkMjMxNTFhMjE2YzY4ZjNmNzFjNWE2ZTk3NDg2ZTc4Mjg1MzI0OWJmIiwiaXYiOiI2ZDI2NTZjOTk3MWI5ZDVlYjcwMDg3ZWIzZDRjZTcwMDMyMzljYzE3YWM3NGExZDgifQ=="
+        },
+        "id": "29yiNkTFS"
+    },
+    "targetConnection": {
+        "name": "screw new",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzNlYzNkOGRlMjQ2OWEyZjI5ZTQzNTc2YTI1NGM2MjIxYTZjZjZjMzE5MDVkMzIwNDc2YzI1MTAwMDE3ZTZhZWMyY2U4YWZmNTFmODEzYzI1NzEwOTgyN2E4ZWJlODcwIiwiaXYiOiI5ODk3NjBiMzlkYjhkN2ExNmVlYmU3YTRiZWViZDFkMWM5YzAxN2M4M2RkNjRjZjcifQ=="
+        },
+        "id": "29yiNkTFS"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "flat",
+            "color": "#5db300"
+        },
+        {
+            "name": "depth",
+            "color": "#e81123"
+        },
+        {
+            "name": "slope",
+            "color": "#6917aa"
+        }
+    ],
+    "id": "jMduvjkza",
+    "activeLearningSettings": {
+        "modelPathType": "file",
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPath": "/home/pavithran/workspace/tfWoodModel/training/fine_tuned_model/web_model",
+        "modelUrl": null
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDE0NGUwZGExMTg2ZmY3Zjc2ODJmYjRjZTc2YzYxYWJkOTE1NDk3NDU1YWIzNzk1M2Y5YzU4MjFkNTZjNDllYjNiYTdlZmE0ODdmOTZmODZhYzY4OGQzZTM3MTcxMWQ3IiwiaXYiOiJhZmM4OTBlNDJjOTkzYTUyYjM0YzZiMTczMTA1NGY1N2I1NmViNGJiM2U4NWNhNDIifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "c2fe1655040fb67f761a4cd0cdd0d424",
+    "assets": {
+        "b6d6f647441601fb1f69a1beece387b4": {
+            "format": "png",
+            "id": "b6d6f647441601fb1f69a1beece387b4",
+            "name": "new0.png",
+            "path": "file:/home/pavithran/synthdata/new0.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "1ad26354bd4770f04ef9f8655a26cd5f": {
+            "format": "png",
+            "id": "1ad26354bd4770f04ef9f8655a26cd5f",
+            "name": "new1.png",
+            "path": "file:/home/pavithran/synthdata/new1.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "c745babdd19b50ab5a4f8342fda3712b": {
+            "format": "png",
+            "id": "c745babdd19b50ab5a4f8342fda3712b",
+            "name": "new10.png",
+            "path": "file:/home/pavithran/synthdata/new10.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "054e8c0495efb63db88491bd6a1a8e9b": {
+            "format": "png",
+            "id": "054e8c0495efb63db88491bd6a1a8e9b",
+            "name": "new11.png",
+            "path": "file:/home/pavithran/synthdata/new11.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "2f3e9070a80c7b8c1ac6aabe36bc16af": {
+            "format": "png",
+            "id": "2f3e9070a80c7b8c1ac6aabe36bc16af",
+            "name": "new12.png",
+            "path": "file:/home/pavithran/synthdata/new12.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "10cbd571eceef1022e34973b9b70ad36": {
+            "format": "png",
+            "id": "10cbd571eceef1022e34973b9b70ad36",
+            "name": "new13.png",
+            "path": "file:/home/pavithran/synthdata/new13.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "e1cc9932619f625e81ffb55fda1e743a": {
+            "format": "png",
+            "id": "e1cc9932619f625e81ffb55fda1e743a",
+            "name": "new14.png",
+            "path": "file:/home/pavithran/synthdata/new14.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "39fb096d6a91bd5603a075b049fb0707": {
+            "format": "png",
+            "id": "39fb096d6a91bd5603a075b049fb0707",
+            "name": "new15.png",
+            "path": "file:/home/pavithran/synthdata/new15.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "89d0bf2bd30e11c9c1cdfd3cee6d412d": {
+            "format": "png",
+            "id": "89d0bf2bd30e11c9c1cdfd3cee6d412d",
+            "name": "new16.png",
+            "path": "file:/home/pavithran/synthdata/new16.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "d13e84c5401d33eb5fba8b152ea5f167": {
+            "format": "png",
+            "id": "d13e84c5401d33eb5fba8b152ea5f167",
+            "name": "new17.png",
+            "path": "file:/home/pavithran/synthdata/new17.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "d04d8322941668bfa46acab4605464b9": {
+            "format": "png",
+            "id": "d04d8322941668bfa46acab4605464b9",
+            "name": "new18.png",
+            "path": "file:/home/pavithran/synthdata/new18.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "dd27a4877cf4255cd4a679ac1a14636c": {
+            "format": "png",
+            "id": "dd27a4877cf4255cd4a679ac1a14636c",
+            "name": "new19.png",
+            "path": "file:/home/pavithran/synthdata/new19.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "48c8c443512b943b8c0ae1e59bff5c5f": {
+            "format": "png",
+            "id": "48c8c443512b943b8c0ae1e59bff5c5f",
+            "name": "new2.png",
+            "path": "file:/home/pavithran/synthdata/new2.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "7ca31fa255bf7a1bc4447bfd7ec44b9b": {
+            "format": "png",
+            "id": "7ca31fa255bf7a1bc4447bfd7ec44b9b",
+            "name": "new20.png",
+            "path": "file:/home/pavithran/synthdata/new20.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "16e8a6362fdb7985894244ed347f604d": {
+            "format": "png",
+            "id": "16e8a6362fdb7985894244ed347f604d",
+            "name": "new21.png",
+            "path": "file:/home/pavithran/synthdata/new21.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "1f31d7dc09209d2eaaba3d7f1b43c21f": {
+            "format": "png",
+            "id": "1f31d7dc09209d2eaaba3d7f1b43c21f",
+            "name": "new22.png",
+            "path": "file:/home/pavithran/synthdata/new22.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "637fa52f5bb129c4d0cee20449ac5139": {
+            "format": "png",
+            "id": "637fa52f5bb129c4d0cee20449ac5139",
+            "name": "new23.png",
+            "path": "file:/home/pavithran/synthdata/new23.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "ef58579c85cf06967e6727db8d634e20": {
+            "format": "png",
+            "id": "ef58579c85cf06967e6727db8d634e20",
+            "name": "new24.png",
+            "path": "file:/home/pavithran/synthdata/new24.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "ad4f10e268d9ec61f56c9f7b9d2f693d": {
+            "format": "png",
+            "id": "ad4f10e268d9ec61f56c9f7b9d2f693d",
+            "name": "new25.png",
+            "path": "file:/home/pavithran/synthdata/new25.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "a3bfa22d75cb928733b5c32542d5f290": {
+            "format": "png",
+            "id": "a3bfa22d75cb928733b5c32542d5f290",
+            "name": "new26.png",
+            "path": "file:/home/pavithran/synthdata/new26.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "21e2c632effe443993cddacfb0b2d599": {
+            "format": "png",
+            "id": "21e2c632effe443993cddacfb0b2d599",
+            "name": "new27.png",
+            "path": "file:/home/pavithran/synthdata/new27.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "567d627f535fbd6d84e44a487e1508b0": {
+            "format": "png",
+            "id": "567d627f535fbd6d84e44a487e1508b0",
+            "name": "new28.png",
+            "path": "file:/home/pavithran/synthdata/new28.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "ec31c767a33482b7143b37b334c02290": {
+            "format": "png",
+            "id": "ec31c767a33482b7143b37b334c02290",
+            "name": "new29.png",
+            "path": "file:/home/pavithran/synthdata/new29.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "cebe488305c42299921be0e783cafb55": {
+            "format": "png",
+            "id": "cebe488305c42299921be0e783cafb55",
+            "name": "new3.png",
+            "path": "file:/home/pavithran/synthdata/new3.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "7130a28acdcbd46a090146ffb4e54eef": {
+            "format": "png",
+            "id": "7130a28acdcbd46a090146ffb4e54eef",
+            "name": "new31.png",
+            "path": "file:/home/pavithran/synthdata/new31.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "485f238128d9c296f4ab3706d94fa108": {
+            "format": "png",
+            "id": "485f238128d9c296f4ab3706d94fa108",
+            "name": "new32.png",
+            "path": "file:/home/pavithran/synthdata/new32.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "50986490cf435fe0b240348721aedf69": {
+            "format": "png",
+            "id": "50986490cf435fe0b240348721aedf69",
+            "name": "new33.png",
+            "path": "file:/home/pavithran/synthdata/new33.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "37a937d10ba2c4a806e458739b1b4697": {
+            "format": "png",
+            "id": "37a937d10ba2c4a806e458739b1b4697",
+            "name": "new34.png",
+            "path": "file:/home/pavithran/synthdata/new34.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "d672abc240500fb61b0f157b77d7c6da": {
+            "format": "png",
+            "id": "d672abc240500fb61b0f157b77d7c6da",
+            "name": "new35.png",
+            "path": "file:/home/pavithran/synthdata/new35.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "d02b1bf7811a021f6124dfe593aeda98": {
+            "format": "png",
+            "id": "d02b1bf7811a021f6124dfe593aeda98",
+            "name": "new36.png",
+            "path": "file:/home/pavithran/synthdata/new36.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "14fcefc5b5a7d412c9db0b75f683b7d5": {
+            "format": "png",
+            "id": "14fcefc5b5a7d412c9db0b75f683b7d5",
+            "name": "new37.png",
+            "path": "file:/home/pavithran/synthdata/new37.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "dc4a46c18fe87cab94b75dac81ff5926": {
+            "format": "png",
+            "id": "dc4a46c18fe87cab94b75dac81ff5926",
+            "name": "new38.png",
+            "path": "file:/home/pavithran/synthdata/new38.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "eafd6c7ac2ba3fdf501ae371a2a44b8c": {
+            "format": "png",
+            "id": "eafd6c7ac2ba3fdf501ae371a2a44b8c",
+            "name": "new39.png",
+            "path": "file:/home/pavithran/synthdata/new39.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "a704c624553b6a9906e8c164f1930b0e": {
+            "format": "png",
+            "id": "a704c624553b6a9906e8c164f1930b0e",
+            "name": "new4.png",
+            "path": "file:/home/pavithran/synthdata/new4.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "00c27a0e6680f166b6fe87ea1908727b": {
+            "format": "png",
+            "id": "00c27a0e6680f166b6fe87ea1908727b",
+            "name": "new40.png",
+            "path": "file:/home/pavithran/synthdata/new40.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "ebfa9acf5d035f155242e5767af33909": {
+            "format": "png",
+            "id": "ebfa9acf5d035f155242e5767af33909",
+            "name": "new51.png",
+            "path": "file:/home/pavithran/synthdata/new51.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "5a421bacffd1d226c5a398fc8c5291cb": {
+            "format": "png",
+            "id": "5a421bacffd1d226c5a398fc8c5291cb",
+            "name": "new52.png",
+            "path": "file:/home/pavithran/synthdata/new52.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "034ef461a96230217434b405038b27ca": {
+            "format": "png",
+            "id": "034ef461a96230217434b405038b27ca",
+            "name": "new53.png",
+            "path": "file:/home/pavithran/synthdata/new53.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "11a00ec166ab06c93415116d10543da2": {
+            "format": "png",
+            "id": "11a00ec166ab06c93415116d10543da2",
+            "name": "new50.png",
+            "path": "file:/home/pavithran/synthdata/new50.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "3c173975e3e725f7a7565d350bc4153b": {
+            "format": "png",
+            "id": "3c173975e3e725f7a7565d350bc4153b",
+            "name": "new54.png",
+            "path": "file:/home/pavithran/synthdata/new54.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "1d42dc80da45719cfed8d16e53dff2c6": {
+            "format": "png",
+            "id": "1d42dc80da45719cfed8d16e53dff2c6",
+            "name": "new55.png",
+            "path": "file:/home/pavithran/synthdata/new55.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "cb95fe1eed107827d5aeebd1d732138b": {
+            "format": "png",
+            "id": "cb95fe1eed107827d5aeebd1d732138b",
+            "name": "new56.png",
+            "path": "file:/home/pavithran/synthdata/new56.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "e4416205f1af559578d72ec7fbf0b185": {
+            "format": "png",
+            "id": "e4416205f1af559578d72ec7fbf0b185",
+            "name": "new41.png",
+            "path": "file:/home/pavithran/synthdata/new41.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "85b13bfa5473b4c6432fad5214864ac0": {
+            "format": "png",
+            "id": "85b13bfa5473b4c6432fad5214864ac0",
+            "name": "new46.png",
+            "path": "file:/home/pavithran/synthdata/new46.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "057c54cbb24408719d1c7457ec11cda2": {
+            "format": "png",
+            "id": "057c54cbb24408719d1c7457ec11cda2",
+            "name": "new49.png",
+            "path": "file:/home/pavithran/synthdata/new49.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "e793c5625869017c7c7ca30d3f48ca3e": {
+            "format": "png",
+            "id": "e793c5625869017c7c7ca30d3f48ca3e",
+            "name": "new48.png",
+            "path": "file:/home/pavithran/synthdata/new48.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "c87377ce6d20cbd4dfb3d4dc21ba5c17": {
+            "format": "png",
+            "id": "c87377ce6d20cbd4dfb3d4dc21ba5c17",
+            "name": "new57.png",
+            "path": "file:/home/pavithran/synthdata/new57.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "34668fb8322a2031b2c1ab7b7f900878": {
+            "format": "png",
+            "id": "34668fb8322a2031b2c1ab7b7f900878",
+            "name": "new30.png",
+            "path": "file:/home/pavithran/synthdata/new30.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "246325b348ff095f066fd72b996380b9": {
+            "format": "png",
+            "id": "246325b348ff095f066fd72b996380b9",
+            "name": "new42.png",
+            "path": "file:/home/pavithran/synthdata/new42.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "b3af0e4aba57d5b704efb6b810bffe02": {
+            "format": "png",
+            "id": "b3af0e4aba57d5b704efb6b810bffe02",
+            "name": "new43.png",
+            "path": "file:/home/pavithran/synthdata/new43.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1df4853c4a11d4aa0403c746e6f1d18b": {
+            "format": "png",
+            "id": "1df4853c4a11d4aa0403c746e6f1d18b",
+            "name": "new44.png",
+            "path": "file:/home/pavithran/synthdata/new44.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "c2fe1655040fb67f761a4cd0cdd0d424": {
+            "format": "png",
+            "id": "c2fe1655040fb67f761a4cd0cdd0d424",
+            "name": "new45.png",
+            "path": "file:/home/pavithran/synthdata/new45.png",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        }
+    }
+}

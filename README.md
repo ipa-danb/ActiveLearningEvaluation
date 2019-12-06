@@ -1,4 +1,4 @@
-# ActiveLearningEvaluation
+# Active Learning Evaluation
 Fraunhofer IPA Project
 
 Evaluation of active learning pipeline:
@@ -14,6 +14,8 @@ Process involves:
 
 To start with Synthetic Data was produced using Blender. It was partitioned into train, test sets.
 
+![alt test](synthdata/Screenshot.png)
   The data consists of images with randomly positioned screw holes, with varying light conditions, controlled in the blender environment.
   A sample:
-  ![alt test](synthdata/test/test1.png)
+  
+  ![alt test](synthdata/nex.png)

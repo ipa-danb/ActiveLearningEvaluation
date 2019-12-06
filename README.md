@@ -19,3 +19,14 @@ To start with Synthetic Data was produced using Blender. It was partitioned into
   A sample:
   
   ![alt test](synthdata/nex.png)
+VOTT was used for labelling the data set, It was chasen as it had features to integrate custom models for active learning.
+InceptionV2 model was used for object detection. Active learning used the following process to get the model trained and compatible with VOTT.
+  ![alt test](synthdata/Vott.png)
+1.A pretrained InceptionV2 model was used.
+2.After every small set was labelled, the model was trained on it.
+3.The model weights were saved from the last check point.
+4.The saved model was converted to tensorflowjs model, with was compatible with VOTT. 
+
+The data produced was labelled and evaluated cummulatively and the preformance of the model was plotted as shown below
+![alt test](synthdata/screwDetection.png)
+![alt test](synthdata/correctdetection.png)

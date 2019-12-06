@@ -10,7 +10,9 @@ Process involves:
   2. Train the model on the labelled data.
   3. Use the model to make predictions on some more data.
   4. Use manual labelling, if the model misses finding some labels.
-  5. continue from step 2, gradually increasing the model accuracy.
+  5. continue from step 2.
+
+model accuracy keeps increasing after subsequent iterations.
 
 To start with Synthetic Data was produced using Blender. It was partitioned into train, test sets.
 
